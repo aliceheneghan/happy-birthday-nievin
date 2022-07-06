@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bg-guitar {
+  height: 50em;
+  width: 35em;
+  display: flex;
+  align-items: center;
+  background-image: url("../../images/photo-1541689592655-f5f52825a3b8.avif");
+  background-size: 100%;
+  opacity: 0.2;
+  border-radius: 10%;
+}
+
+.bday-wish {
+font-size: 4em;
+}
+
+.playlist {
+  position: absolute;
+  top: 14em;
+  left: 22em;
+  width: 70%;
+  overflow: hidden;
+  overflow-x: scroll;
+  color: #B2F302;
+  font-size: 1.5em;
+  font-weight: 500;
+}
+
+.list {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  list-style: none;
+  width: 280rem;
+}
+
+.list > li {
+  margin: 1em;
+ 
+  text-align: center;
+}
+li > a {
+  text-decoration: none;
+  color: #B2F302;
+}
