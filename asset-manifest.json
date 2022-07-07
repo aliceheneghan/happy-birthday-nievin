@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/happy-birthday-nievin/static/css/main.8e7cd53c.css",
-    "main.js": "/happy-birthday-nievin/static/js/main.4877c1df.js",
-    "static/media/photo-1541689592655-f5f52825a3b8.avif": "/happy-birthday-nievin/static/media/photo-1541689592655-f5f52825a3b8.318050eec581c0789147.avif",
-    "index.html": "/happy-birthday-nievin/index.html",
-    "main.8e7cd53c.css.map": "/happy-birthday-nievin/static/css/main.8e7cd53c.css.map",
-    "main.4877c1df.js.map": "/happy-birthday-nievin/static/js/main.4877c1df.js.map"
+    "main.css": "/static/css/main.d170dd4d.css",
+    "main.js": "/static/js/main.3bbb069b.js",
+    "static/media/photo-1541689592655-f5f52825a3b8.avif": "/static/media/photo-1541689592655-f5f52825a3b8.318050eec581c0789147.avif",
+    "index.html": "/index.html",
+    "main.d170dd4d.css.map": "/static/css/main.d170dd4d.css.map",
+    "main.3bbb069b.js.map": "/static/js/main.3bbb069b.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e7cd53c.css",
-    "static/js/main.4877c1df.js"
+    "static/css/main.d170dd4d.css",
+    "static/js/main.3bbb069b.js"
   ]
 }
