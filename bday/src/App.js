@@ -1,5 +1,3 @@
-import './App.css'
-
 const playlist = [{id:1, url:'https://www.youtube.com/watch?v=2oyhlad64-s', artist: 'Paco de Lucia', title: 'Entre dos aguas'}, 
 {id:2, url:'https://www.youtube.com/watch?v=ImllpvDwbQ8', artist: 'Tom Misch & Yussef Dayes', title: 'Nightrider (feat. Freddie Gibbs)'}, 
 {id:3, url:'https://www.youtube.com/watch?v=WlGiOiRQNhI', artist: 'Soren Madsen', title: 'Nothing Else Matters by Metallica'}, 
@@ -11,8 +9,10 @@ const playlist = [{id:1, url:'https://www.youtube.com/watch?v=2oyhlad64-s', arti
 {id:9, url:'https://www.youtube.com/watch?v=oc50wHexbwg', artist: 'Khruangbin', title: 'Time (You and I)'}, 
 {id:10, url:'https://www.youtube.com/watch?v=nPLV7lGbmT4', artist: 'Santana', title: 'Maria Maria ft. The Product G&B'},
 {id:11, url:'https://www.youtube.com/watch?v=NWEonM7S9pE', artist: 'Al Marconi', title: 'OMEGA REQUIEM'},
-{id:12, url:'https://www.youtube.com/watch?v=2oyhlad64-s', artist: 'Paco de Lucia', title: 'Entre dos aguas'}, 
-{id:13, url:'https://www.youtube.com/watch?v=2oyhlad64-s', artist: 'Paco de Lucia', title: 'Entre dos aguas'} ]
+{id:12, url:' https://www.youtube.com/watch?v=QMW61Jva00s', artist: 'Yiruma', title: 'River Flows in You'}, 
+{id:13, url:'https://www.youtube.com/watch?v=ALAoNPuofkU', artist: 'Guns N Roses', title: 'Rocket Queen'},
+{id:14, url:'https://www.youtube.com/watch?v=UDCP-3RsOfM', artist: 'Gustavo Santaolalla', title: 'Endless Flight'},
+{id:15, url:'https://www.youtube.com/watch?v=x2PqCVYDtIw', artist: '2:37 - 7:00', title:'Best Classical Guitar Music 70s 80s'} ]
 
 const playlistinHTML = playlist.map((track => {
   return <li key={track.id}>{track.artist}<br/>{track.title}<br/><a href={track.url}>Listen</a></li>
