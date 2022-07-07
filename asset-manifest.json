@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.5681c4b9.css",
-    "main.js": "/static/js/main.74fe305a.js",
-    "static/media/photo-1541689592655-f5f52825a3b8.avif": "/static/media/photo-1541689592655-f5f52825a3b8.318050eec581c0789147.avif",
-    "index.html": "/index.html",
-    "main.5681c4b9.css.map": "/static/css/main.5681c4b9.css.map",
-    "main.74fe305a.js.map": "/static/js/main.74fe305a.js.map"
+    "main.css": "/happy-birthday-nievin/static/css/main.e8ad0e48.css",
+    "main.js": "/happy-birthday-nievin/static/js/main.74fe305a.js",
+    "static/media/photo-1541689592655-f5f52825a3b8.avif": "/happy-birthday-nievin/static/media/photo-1541689592655-f5f52825a3b8.318050eec581c0789147.avif",
+    "index.html": "/happy-birthday-nievin/index.html",
+    "main.e8ad0e48.css.map": "/happy-birthday-nievin/static/css/main.e8ad0e48.css.map",
+    "main.74fe305a.js.map": "/happy-birthday-nievin/static/js/main.74fe305a.js.map"
   },
   "entrypoints": [
-    "static/css/main.5681c4b9.css",
+    "static/css/main.e8ad0e48.css",
     "static/js/main.74fe305a.js"
   ]
 }
